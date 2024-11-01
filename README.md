@@ -4,6 +4,6 @@ This is a restaurant website.
 
 It was created using:
 
-* HTML
+* PHP
 * CSS
 * JavaScript
